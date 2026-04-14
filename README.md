@@ -47,7 +47,7 @@ The following analyses were conducted using SQL:
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 - A small percentage of products contribute to a large portion of total revenue, indicating a Pareto distribution  
 - Sales show noticeable seasonal trends, suggesting the impact of time-based demand  
@@ -57,29 +57,29 @@ The following analyses were conducted using SQL:
 
 ---
 
-## 📊 Dashboard Description
+## Dashboard Description
 
 An interactive dashboard was created using Power BI to visualize key metrics and insights.
 
 ### Dashboard Features:
 
-- 📌 KPI cards displaying total revenue and sales  
-- 📈 Monthly sales trend analysis  
-- 📦 Category-wise and product-wise performance  
-- 👥 Customer insights and segmentation  
-- 🎛️ Interactive filters for dynamic exploration  
+- KPI cards displaying total revenue and sales  
+- Monthly sales trend analysis  
+- Category-wise and product-wise performance  
+- Customer insights and segmentation  
+- Interactive filters for dynamic exploration  
 
 The dashboard enables stakeholders to quickly understand business performance and make informed decisions.
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates how SQL and data visualization tools can be combined to transform raw data into actionable insights. It highlights the importance of data-driven decision-making in improving sales performance and customer engagement.
 
 ---
 
-## 💻 GitHub Repository
+## GitHub Repository
 
-[Add your repository link here]
+https://github.com/Mayank-Verma29/Amazon-Sales-Analysis-using-MySQL-and-dashboard
 
