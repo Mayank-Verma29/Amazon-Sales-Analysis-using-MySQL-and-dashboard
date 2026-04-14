@@ -83,3 +83,9 @@ This project demonstrates how SQL and data visualization tools can be combined t
 
 https://github.com/Mayank-Verma29/Amazon-Sales-Analysis-using-MySQL-and-dashboard
 
+---
+
+## Dashboard Preview
+<img width="764" height="431" alt="image" src="https://github.com/user-attachments/assets/2a812458-8724-436d-9a23-74f1e0231825" />
+
+
